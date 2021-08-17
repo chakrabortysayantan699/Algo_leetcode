@@ -33,7 +33,7 @@ class Solution(object):
         return dummy.next
        
 ```
-## Solution 2(correct but rejected for using len() method
+## Solution 2(correct but rejected for using len() method as l1 and l2 are type of ListNode)
 ```python
 # Definition for singly-linked list.
 #class ListNode:
