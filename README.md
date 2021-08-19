@@ -7,5 +7,6 @@ DS algo implementation
 | [Reverse Integer](https://github.com/chakrabortysayantan699/DS_algo_leetcode/blob/main/Python/Reverse_Integer.py)|Python| Easy   |
 | [Palindrome_Number](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Palindrome_Number.py)|Python| Easy  |
 | [Roman To Integer](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/RomanToInteger.py)|Python|Easy|
-| [Add Two Numbers](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Add_Two_Numbers.md)|Python|Medium
-|[Longest Common Prefix](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Longest_common_prefix.md)|python|Easy
+| [Add Two Numbers](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Add_Two_Numbers.md)|Python|Medium|
+|[Longest Common Prefix](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Longest_common_prefix.md)|python|Easy|
+|[String to Integer(atoi)](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/String_Integer.md)|python|Medium|
