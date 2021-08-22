@@ -10,3 +10,6 @@ DS algo implementation
 | [Add Two Numbers](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Add_Two_Numbers.md)|Python|Medium|
 |[Longest Common Prefix](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Longest_common_prefix.md)|python|Easy|
 |[String to Integer(atoi)](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/String_Integer.md)|python|Medium|
+|[Binary Search](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Binary_Search.md)|python|Easy|
+|[First Bad Version](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/First_bad_version.md)|python|Easy|
+|[Search Insertion postion](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Search_insertion_postion.md)|python|Easy|
