@@ -8,10 +8,12 @@ DS algo implementation
 | [Palindrome_Number](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Palindrome_Number.py)|Python| Easy  |
 | [Roman To Integer](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/RomanToInteger.py)|Python|Easy|
 | [Add Two Numbers](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Add_Two_Numbers.md)|Python|Medium|
-|[Longest Common Prefix](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Longest_common_prefix.md)|python|Easy|
-|[String to Integer(atoi)](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/String_Integer.md)|python|Medium|
-|[Binary Search](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Binary_Search.md)|python|Easy|
-|[First Bad Version](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/First_bad_version.md)|python|Easy|
-|[Search Insertion postion](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Search_insertion_postion.md)|python|Easy|
-|[Squares of a Sorted Array](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Squares_of_Sorted_array.md)|python|Easy|
-|[Move Zeros](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Moving_zeros.md)|python|Easy|
+|[Longest Common Prefix](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Longest_common_prefix.md)|Python|Easy|
+|[String to Integer(atoi)](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/String_Integer.md)|Python|Medium|
+|[Binary Search](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Binary_Search.md)|Python|Easy|
+|[First Bad Version](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/First_bad_version.md)|Python|Easy|
+|[Search Insertion postion](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Search_insertion_postion.md)|Python|Easy|
+|[Squares of a Sorted Array](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Squares_of_Sorted_array.md)|Python|Easy|
+|[Move Zeros](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Moving_zeros.md)|Python|Easy|
+|[Rotate Array](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Rotate_array.md)Python|Medium|
+|[Two Sum II ](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Two_Sum_II.md)|Python|Easy|
