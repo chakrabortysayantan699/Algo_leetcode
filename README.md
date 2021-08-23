@@ -15,5 +15,5 @@ DS algo implementation
 |[Search Insertion postion](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Search_insertion_postion.md)|Python|Easy|
 |[Squares of a Sorted Array](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Squares_of_Sorted_array.md)|Python|Easy|
 |[Move Zeros](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Moving_zeros.md)|Python|Easy|
-|[Rotate Array](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Rotate_array.md)Python|Medium|
+|[Rotate Array](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Rotate_array.md)|Python|Medium|
 |[Two Sum II ](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Two_Sum_II.md)|Python|Easy|
