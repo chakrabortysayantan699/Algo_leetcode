@@ -13,3 +13,5 @@ DS algo implementation
 |[Binary Search](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Binary_Search.md)|python|Easy|
 |[First Bad Version](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/First_bad_version.md)|python|Easy|
 |[Search Insertion postion](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Search_insertion_postion.md)|python|Easy|
+|[Squares of a Sorted Array](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Squares_of_Sorted_array.md)|python|Easy|
+|[Move Zeros](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Moving_zeros.md)|python|Easy|
