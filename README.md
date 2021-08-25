@@ -19,3 +19,5 @@ DS algo implementation
 |[Two Sum II ](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Two_Sum_II.md)|Python|Easy|
 |[Reverse String](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Reverse_String.md)|Python|Easy|
 |[Reverse Integer](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Reverse_words.md)|Python| Easy|
+|[ Middle of The Linklist](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/c526de0623613a58b781b5ba2fbbd20149dd3a40/Python/Middle_linklist.md)|Python|Easy|
+
