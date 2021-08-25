@@ -1,7 +1,9 @@
-# DS_algo_leetcode
-DS algo implementation 
+# DS_algo_leetcode Solution 
 
-|  **Programs**        |    language       |    Difficulity  |
+## Leetcode slotuion📖 content📚
+
+
+|  **Programs** 💻    |  **language**  🐍| **Difficulity**🏴‍☠️  |
 |----------------------|-------------------|-----------------|
 | [Two Sum](https://github.com/chakrabortysayantan699/DS_algo_leetcode/blob/main/Python/Two_Sum.py)| Python   |  Easy           |
 | [Reverse Integer](https://github.com/chakrabortysayantan699/DS_algo_leetcode/blob/main/Python/Reverse_Integer.py)|Python| Easy   |
