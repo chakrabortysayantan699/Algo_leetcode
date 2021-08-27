@@ -1,4 +1,4 @@
-# DS_algo_leetcode Solution 
+# DS And Algo leetcode Solution 
 
 ## Leetcode slotuion📖 content📚
 
