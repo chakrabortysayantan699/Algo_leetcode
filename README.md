@@ -26,4 +26,6 @@
 |[Longest Substring Without Repeatation ](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Longest_substring.md)|Python|Medium|
 |[Permutation of String](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Permutation_string.md)|Python|Medium|
 |[Flood Fill](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Flood_fill.md)|Python|Easy|
+|[Max Area of Island](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Max_area_island.md)|Python|Medium|
+
 
