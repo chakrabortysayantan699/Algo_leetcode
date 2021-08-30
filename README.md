@@ -24,5 +24,6 @@
 |[ Middle of The Linklist](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/c526de0623613a58b781b5ba2fbbd20149dd3a40/Python/Middle_linklist.md)|Python|Easy|
 |[Remove Nth Node From End of the List](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Remove_End_list.md)| Python |Easy|
 |[Longest Substring Without Repeatation ](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Longest_substring.md)|Python|Medium|
+|[Permutation of String](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Permutation_string.md)|Python|Medium|
 
 
