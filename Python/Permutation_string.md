@@ -33,3 +33,20 @@ class Solution(object):
             p2 += 1
         return False
  ```
+# Solution 2 by inbuild function
+
+```python
+from itertools import permutations as per
+class Solution:
+    def checkInclusion(self, s1, s2):
+        flag=False
+        if((1<=len(s1)<=10**4) and (1<=len(s2)<=10**4)):
+            a=per(s1)
+            b=list(a)
+            for i in b:
+                c="".join(i)
+                if c in s2:
+                    flag=True
+                    return flag
+        return flag
+```
