@@ -28,5 +28,7 @@
 |[Flood Fill](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Flood_fill.md)|Python|Easy|
 |[Max Area of Island](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Max_area_island.md)|Python|Medium|
 |[Merge Two Binary Trees](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Merge_binary_trees.md)|Python|Easy|
+|[116. Populating Next Right Pointers in Each Node](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Next_right_pointers.md)|Python|Medium|
+
 
 
