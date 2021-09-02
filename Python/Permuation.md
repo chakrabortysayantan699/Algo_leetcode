@@ -12,5 +12,5 @@ class Solution:
             return a
         
 ```
-***Runtime: 51ms, faster than 90.71% of Python3 online submissions for Letter Case Permutation.
-Memory Usage: 14.1 MB, less than 84.83% of Python3 online submissions for Letter Case Permutation. **
+**Runtime: 51ms, faster than 90.71% of Python3 online submissions for Letter Case Permutation.
+Memory Usage: 14.1 MB, less than 84.83% of Python3 online submissions for Letter Case Permutation.**
