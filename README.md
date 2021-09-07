@@ -30,9 +30,16 @@
 |[Merge Two Binary Trees](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Merge_binary_trees.md)|Python|Easy|
 |[21. Merge Two Sorted Lists](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Merge_sorted_list.md)|Python|Easy|
 |[46. Permutations](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Permuation.md)|Python|Medium|
+|[70. Climbing Stairs](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Climibing_stairs.md)|Python|Easy|
 |[77 Combinations](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Combination.md)|Python|Medium|
 |[116. Populating Next Right Pointers in Each Node](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Next_right_pointers.md)|Python|Medium|
+|[120.Traingle](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Traingle.md)|Python|Medium|
+|[136.Singel Number](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Singel_number.md)|Python|Easy|
+|[190.Reverse Bits](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Reverse_bits.md)|Python|Easy|
+|[191.Number 1 bits](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Number_1.md)|Python|Easy|
+|[198. House Robber](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/House_robber.md)|Python| Medium|
 |[206. Reverse link list](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Reverse_linklist.md)|Python |Easy|
+|[231. Power of Two](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Power_two.md)|Python|Easy|
 |[542. 01 Matrix](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/matrix.md)|Python|Medium|
 |[784. Lettercase Permutations](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/LetterCase_permutations.md)|Python|Medium|
 |[994. Rotating Oranges](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Rotatating_orange.md)|Python|Medium|
