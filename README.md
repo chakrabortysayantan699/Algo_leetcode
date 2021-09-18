@@ -42,8 +42,16 @@
 |[231. Power of Two](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Power_two.md)|Python|Easy|
 |[542. 01 Matrix](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/matrix.md)|Python|Medium|
 |[784. Lettercase Permutations](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/LetterCase_permutations.md)|Python|Medium|
+|[832. Flipping an Image](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Flipping_image.md)|Python|Easy|
 |[994. Rotating Oranges](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Rotatating_orange.md)|Python|Medium|
-|
+|[1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Smaller_than_current.md)|Python|Easy|
+|[1431. Kids With the Greatest Number of Candies](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Greatest_number_of_candies.md)|Python|Easy|
+|[1470. Shuffle the Array](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Suffle_array.md)|Python|Easy|
+|[1480. Running Sum of 1d Array](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Running%20Sum%20of%201d%20Array.md)|python|Easy|
+|[1512. Number of Good Pairs](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Good_pairs.md)|python|Easy|
+|[1672. Richest Customer Wealth](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Richest_Customer_wealth.md)|Python|Easy|
+|[1732. Find the Highest Altitude](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Highest_altitiude.md)|Python|Easy|
+|[1773. Count Items Matching a Rule](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Count_intems_matching_rule.md)|Python|Easy|
 
 
 
