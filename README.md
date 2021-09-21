@@ -1,6 +1,6 @@
 # DS And Algo leetcode Solution 
 
-## Leetcode slotuion📖 content📚
+## Leetcode slotuion📖 contents📚
 
 
 |  **Programs** 💻    |  **language**  🐍| **Difficulity** 🏴‍☠️|
@@ -28,27 +28,30 @@
 |[Flood Fill](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Flood_fill.md)|Python|Easy|
 |[Max Area of Island](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Max_area_island.md)|Python|Medium|
 |[Merge Two Binary Trees](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Merge_binary_trees.md)|Python|Easy|
-|[21. Merge Two Sorted Lists](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Merge_sorted_list.md)|Python|Easy|
-|[46. Permutations](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Permuation.md)|Python|Medium|
-|[70. Climbing Stairs](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Climibing_stairs.md)|Python|Easy|
-|[77 Combinations](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Combination.md)|Python|Medium|
+|[21.  Merge Two Sorted Lists](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Merge_sorted_list.md)|Python|Easy|
+|[46.  Permutations](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Permuation.md)|Python|Medium|
+|[70.  Climbing Stairs](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Climibing_stairs.md)|Python|Easy|
+|[77.  Combinations](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Combination.md)|Python|Medium|
 |[116. Populating Next Right Pointers in Each Node](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Next_right_pointers.md)|Python|Medium|
-|[120.Traingle](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Traingle.md)|Python|Medium|
-|[136.Singel Number](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Singel_number.md)|Python|Easy|
-|[190.Reverse Bits](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Reverse_bits.md)|Python|Easy|
-|[191.Number 1 bits](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Number_1.md)|Python|Easy|
+|[120. Traingle](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Traingle.md)|Python|Medium|
+|[136. Singel Number](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Singel_number.md)|Python|Easy|
+|[190. Reverse Bits](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Reverse_bits.md)|Python|Easy|
+|[191. Number 1 bits](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Number_1.md)|Python|Easy|
 |[198. House Robber](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/House_robber.md)|Python| Medium|
 |[206. Reverse link list](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Reverse_linklist.md)|Python |Easy|
 |[231. Power of Two](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Power_two.md)|Python|Easy|
 |[542. 01 Matrix](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/matrix.md)|Python|Medium|
 |[784. Lettercase Permutations](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/LetterCase_permutations.md)|Python|Medium|
 |[832. Flipping an Image](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Flipping_image.md)|Python|Easy|
+|[867. Transpose Matrix](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Transpose_matrix.md)|Python|Easy|
 |[994. Rotating Oranges](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Rotatating_orange.md)|Python|Medium|
+|[1295. Find Numbers with Even Number of Digits](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Even_digit.md)|Python|Easy|
 |[1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Smaller_than_current.md)|Python|Easy|
 |[1431. Kids With the Greatest Number of Candies](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Greatest_number_of_candies.md)|Python|Easy|
 |[1470. Shuffle the Array](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Suffle_array.md)|Python|Easy|
-|[1480. Running Sum of 1d Array](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Running%20Sum%20of%201d%20Array.md)|python|Easy|
-|[1512. Number of Good Pairs](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Good_pairs.md)|python|Easy|
+|[1480. Running Sum of 1d Array](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Running%20Sum%20of%201d%20Array.md)|Python|Easy|
+|[1512. Number of Good Pairs](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Good_pairs.md)|Python|Easy|
+|[1572. Matrix Diagonal Sum](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Matrix_diagonal.md)|Python|Easy|
 |[1672. Richest Customer Wealth](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Richest_Customer_wealth.md)|Python|Easy|
 |[1732. Find the Highest Altitude](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Highest_altitiude.md)|Python|Easy|
 |[1773. Count Items Matching a Rule](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Count_intems_matching_rule.md)|Python|Easy|
