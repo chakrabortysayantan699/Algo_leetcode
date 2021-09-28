@@ -44,6 +44,8 @@
 |[784. Lettercase Permutations](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/LetterCase_permutations.md)|Python|Medium|
 |[832. Flipping an Image](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Flipping_image.md)|Python|Easy|
 |[867. Transpose Matrix](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Transpose_matrix.md)|Python|Easy|
+|[922. Sort Array By Parity II](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/sort_array_parity.md)|Python|Easy|
+|[929. Unique Email Addresses](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/unique_mail_adress.md)|Python|Easy|
 |[994. Rotating Oranges](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Rotatating_orange.md)|Python|Medium|
 |[1295. Find Numbers with Even Number of Digits](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Even_digit.md)|Python|Easy|
 |[1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Smaller_than_current.md)|Python|Easy|
