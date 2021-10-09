@@ -39,7 +39,10 @@
 |[191. Number 1 bits](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Number_1.md)|Python|Easy|
 |[198. House Robber](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/House_robber.md)|Python| Medium|
 |[206. Reverse link list](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Reverse_linklist.md)|Python |Easy|
+|[217. Contains Duplicate](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/contain_duplicates.md)|Python|Easy|
 |[231. Power of Two](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Power_two.md)|Python|Easy|
+|[412. Fizz Buzz](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Fizz_buzz.md)|Python|Easy|
+|[482. License Key Formatting](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/License_key.md)|Python|Easy|
 |[542. 01 Matrix](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/matrix.md)|Python|Medium|
 |[784. Lettercase Permutations](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/LetterCase_permutations.md)|Python|Medium|
 |[832. Flipping an Image](https://github.com/chakrabortysayantan699/Algo_leetcode/blob/main/Python/Flipping_image.md)|Python|Easy|
